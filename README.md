@@ -24,6 +24,7 @@ The system is intelligent enough to generate accurate queries for given question
   - Few shot learning
 - In the UI, store manager will ask questions in a natural language and it will produce the answers
 
+![TeeVogue_SC](https://github.com/more-ganesh07/End-to-end-LLM-project-Using-Langchain-in-Retail-Industry/assets/108267458/7266135c-310c-4da6-9cc4-f5c1e12c9964)
 
 ## Usage
 
